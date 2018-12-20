@@ -3,8 +3,8 @@ import React, { Component } from 'react';
 class Header extends Component {
     render() {
         return (
-            <div className="jumbotron">
-                <h1>CoolCatsCoding 🔥</h1>
+            <div className="jumbotron animated slideInDown">
+                <h1>Learning React 🔥</h1>
             </div>
         );
     }

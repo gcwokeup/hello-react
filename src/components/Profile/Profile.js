@@ -4,7 +4,7 @@ class Profile extends Component {
   render() {
     return (
         <a href={this.props.github} target="_blank">
-          <div className="card">
+          <div className="card animated fadeIn delay-1s">
             <img className="card-img-top"
                  src={this.props.profilePicture}
                  alt="Card cap"/>
