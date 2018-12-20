@@ -4,10 +4,9 @@ class Header extends Component {
     render() {
         return (
             <div className="jumbotron">
-                <h1>Welcome to Kindler 🔥</h1>
+                <h1>CoolCatsCoding 🔥</h1>
             </div>
         );
     }
 }
-
 export default Header;
